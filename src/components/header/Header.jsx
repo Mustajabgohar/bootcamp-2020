@@ -4,7 +4,7 @@ import "./header.css";
 
 class Header extends Component {
   state = {
-    title_text: "Jazz World",
+    title_text: "Jazz World!",
   };
   render() {
     return (
